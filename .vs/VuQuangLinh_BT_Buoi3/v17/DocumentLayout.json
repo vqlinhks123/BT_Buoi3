@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\VuQuangLinh_BT_Buoi3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CE9BD9A-376C-44BC-9919-FB9A74E1827D}|VuQuangLinh_BT_Buoi3\\VuQuangLinh_BT_Buoi3.csproj|c:\\users\\acer\\desktop\\vuquanglinh_bt_buoi3\\vuquanglinh_bt_buoi3\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE9BD9A-376C-44BC-9919-FB9A74E1827D}|VuQuangLinh_BT_Buoi3\\VuQuangLinh_BT_Buoi3.csproj|solutionrelative:vuquanglinh_bt_buoi3\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CE9BD9A-376C-44BC-9919-FB9A74E1827D}|VuQuangLinh_BT_Buoi3\\VuQuangLinh_BT_Buoi3.csproj|C:\\Users\\acer\\Desktop\\VuQuangLinh_BT_Buoi3\\vuquanglinh_bt_buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CE9BD9A-376C-44BC-9919-FB9A74E1827D}|VuQuangLinh_BT_Buoi3\\VuQuangLinh_BT_Buoi3.csproj|solutionrelative:vuquanglinh_bt_buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VuQuangLinh_BT_Buoi3\\VuQuangLinh_BT_Buoi3\\Bai1.cs",
+              "RelativeDocumentMoniker": "VuQuangLinh_BT_Buoi3\\Bai1.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\VuQuangLinh_BT_Buoi3\\VuQuangLinh_BT_Buoi3\\Bai1.cs",
+              "RelativeToolTip": "VuQuangLinh_BT_Buoi3\\Bai1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:10:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\VuQuangLinh_BT_Buoi3\\VuQuangLinh_BT_Buoi3\\Program.cs",
               "RelativeDocumentMoniker": "VuQuangLinh_BT_Buoi3\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\VuQuangLinh_BT_Buoi3\\VuQuangLinh_BT_Buoi3\\Program.cs",
               "RelativeToolTip": "VuQuangLinh_BT_Buoi3\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA7AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T16:02:07.207Z",
               "EditorCaption": ""

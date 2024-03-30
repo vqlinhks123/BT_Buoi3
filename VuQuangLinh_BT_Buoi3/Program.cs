@@ -66,7 +66,7 @@ namespace VuQuangLinh_BT_Buoi3
                         bai7.Execute(array);
                         break;
                     case 0:
-                        flag = 0; ; break;
+                        flag = 0; break;
                     default:
                         Console.WriteLine("Lua chon khong hop le, vui long nhap lai!"); break;
                 }

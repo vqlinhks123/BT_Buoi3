@@ -35,11 +35,24 @@ namespace VuQuangLinh_BT_Buoi3
         private void InputArray(out int[] array, int length)
         {
             array = new int[length];
+            string data;
             bool check_input;
             for (int i = 0; i < length; i++)
             {
-                Console.Write("Nhap phan tu thu " + (i+1) + ": ");
-                array[i] = Int32.Parse(Console.ReadLine());
+                do
+                {
+                    Console.Write("Nhap phan tu thu " + (i + 1) + ": ");
+                    try
+                    {
+                        check_input = true;
+                        array[i] = Int32.Parse(Console.ReadLine());
+                    }
+                    catch (FormatException e1)
+                    {
+                        Console.Error.WriteLine("Du lieu nhap vao chua dung! " + e1.Message);
+                        check_input = false;
+                    }
+                } while (!check_input);                            
             }    
         }
 
